@@ -1,0 +1,60 @@
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\c1007304\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Hassan\Downloads\Movies and Actors Catalogue\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Hassan\Downloads\5550820722AF_001\Programming Project\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Hassan\Downloads\Movies & Actors Catalogue\Programming Project\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
